@@ -21,6 +21,7 @@ Para os cometas e grupos abaixo, vocÃª deverÃ¡ desenvolvedor um programa ao 
 
 
 """
+
 def letras(nome):
     produto = 1
     for letra in nome:
@@ -44,6 +45,7 @@ nome_cometa = ['HALLEY', 'ENCKE', 'WOLF', 'KUSHIDA']
 for grupo in nome_grupo:
     for cometa in nome_cometa:
         verificar_grupo_levado(grupo, cometa)
+        
 """
 
 ##Demonstrando resultado
