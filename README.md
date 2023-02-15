@@ -20,7 +20,7 @@ Para os cometas e grupos abaixo, vocÃª deverÃ¡ desenvolvedor um programa ao 
 
 
 
-### Resoluç
+### Resolução
 
 ```
 def letras(nome):
