@@ -19,6 +19,9 @@ Para os cometas e grupos abaixo, vocÃª deverÃ¡ desenvolvedor um programa ao 
 | KUSHIDA	 | AZUL     |
 
 
+
+### Resoluç
+
 ```
 def letras(nome):
     produto = 1
