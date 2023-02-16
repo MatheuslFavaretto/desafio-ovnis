@@ -20,7 +20,7 @@ Para os cometas e grupos abaixo, vocÃª deverÃ¡ desenvolvedor um programa ao 
 
 
 
-### Resolução
+### [Resolução](main.py)
 
 ```
 def letras(nome):
